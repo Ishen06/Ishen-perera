@@ -1,7 +1,7 @@
 # ishen_perera
 **All about the person.**
 
-**Introduction**
+**Introduction** - 
 Hi there! I'm Ishen Perera. A Sri Lankan but currently working and studying in Malaysia. I'm here to deal with my skills and projects.
 I'm striving to achieve my goals with IT industry.
 
